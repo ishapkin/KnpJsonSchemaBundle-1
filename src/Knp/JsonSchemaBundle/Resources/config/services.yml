@@ -1,6 +1,7 @@
 services:
     json_schema.controller:
         class: Knp\JsonSchemaBundle\Controller\SchemaController
+        public: true
         arguments:
             - '@json_schema.registry'
             - '@json_schema.generator'
