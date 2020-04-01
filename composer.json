@@ -1,5 +1,5 @@
 {
-    "name": "tetraset/knp-json-schema-bundle",
+    "name": "ishapkin/knp-json-schema-bundle",
     "description": "A bundle to generate json schema based on various metadata",
     "license": "MIT",
     "authors": [
